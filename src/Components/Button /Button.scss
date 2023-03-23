@@ -1,0 +1,25 @@
+
+
+
+.button{
+    padding: 10px;
+    background-color: #7a7b7f;
+    color: black;
+    border-radius: 4px;
+
+
+    &.primary{
+        background-color: #0000ff;
+        color: #fff;
+    }
+
+    &.danger{
+        background-color: #ee0707;
+        color: #fff;
+
+    }
+    &.success{
+        background-color: #080;
+        color: #fff;
+    }
+}
